@@ -1,3 +1,0 @@
-# Salami Bread
-
-`TODO`
