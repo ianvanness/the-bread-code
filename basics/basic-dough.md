@@ -24,7 +24,7 @@ Custom recipes hook in here with additional steps that are required to be done b
 
 ### Autolyse
 
-Mix together all the ingredients listed by the recipe. Some recipes require
+Mix together all the ingredients listed by the recipe, except the yeast. Some recipes require
 you to exclude ingredients initially. Instead they will be added later during
 the shaping phase. Proceed and all the ingredients in large bowl in front of you.
 Stir them with a spoon for 2 minutes.
@@ -36,6 +36,8 @@ Furthermore the atoms will homogenize and spread evenly throughout the dough.
 Place the yeast evenly on top of your dough. Many sources claim this should be done after the autolysing.
 However, when baking myself I sometimes add yeast right away and could not notice a significant difference.
 It would be interesting to conduct more research on this topic.
+
+You may see in other recipes that it is common to proof the yeast in warm water, followed by the addition of sugar to feed the yeast. This is only done to make the dough rise faster. Since we are waiting overnight for our dough to rise, the sugars and room temperature water are more than enough, no need to add sugar.
 
 ### Form the gluten
 
@@ -122,7 +124,7 @@ Piece by piece your dough will become rounder.
 The trickiest part of the process starts now.
 You want the bottom part of the dough that you have created to face upwards. The
 currently lower side has a lot of tension after following this process.
-Rotate the dough so the lower part is not facing you directly.
+Flip the dough so the lower part is not facing you directly.
 
 ![Previously bottom part now faces you](../images/previously-bottom.jpg)
 
@@ -136,7 +138,7 @@ If your bread ends up too flat, this is very likely the step that you need to im
 If you have a [banneton](tools.md#banneton-optional) use a banneton; if not, use a clean bowl.
 Place the shaped dough upside down in the container.
 The round surface that you created should be now at the bottom of your banneton or bowl.
-When baking the dough we will rotate the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
+When baking the dough we will flip the bowl and the round surface will again be on top in the oven. Cover the bowl with linen or some foil.
 
 Let the dough rest for an hour, or overnight in the fridge.
 
@@ -152,7 +154,7 @@ This water will evaporate during baking, creating steam that supports the dough 
 
 After about 30 minutes of the oven pre-heating, remove the top tray and place your bread directly on it.
 Be careful, as the tray will be as hot as your oven.
-If you have a dutch oven, place the bread in the it.
+If you have a dutch oven, place the bread in it.
 
 Score the bread with 2 cm deep cuts at an angle.
 Consider these like tectonic plates, creating weaknesses in the surface to allow the bread to raise at the point of weakness.
